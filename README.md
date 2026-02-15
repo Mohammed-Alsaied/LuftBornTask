@@ -13,7 +13,7 @@ SQL Server Database support
 
 Entity Framework Core Migrations
 
-MVC / API structure (depending on your project)
+MVC structure 
 
 🛠️ Technologies Used
 
@@ -25,7 +25,7 @@ Entity Framework Core
 
 SQL Server
 
-Bootstrap (optional)
+Bootstrap
 
 📂 Project Setup
 ✅ Requirements
