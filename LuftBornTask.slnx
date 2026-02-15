@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LuftBornTask.BLL/LuftBornTask.BLL.csproj" Id="06289ab8-4311-4359-a112-1a67aa897ea0" />
+  <Project Path="LuftBornTask.DAL/LuftBornTask.DAL.csproj" />
+  <Project Path="LuftBornTask/LuftBornTask.UI.csproj" />
+</Solution>
